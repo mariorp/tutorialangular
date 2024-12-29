@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "/tutorialangular": {},
+    "/tutorialangular/conclusiones": {},
+    "/tutorialangular/explicacion": {},
+    "/tutorialangular/instalacion": {},
+    "/tutorialangular/justificacion": {},
+    "/tutorialangular/primeros-pasos": {},
+    "/tutorialangular/utilizacion": {}
+  }
+}
